@@ -1,49 +1,30 @@
-Status Report for _Last Day of Week_
+Status Report for October 5th
 ===
 
 # Project Status
 
 What has your team accomplished over the past week?
-* Item 1
-* Item 2
-* Item _n_
+* officially meet with everyone 
+* discussed who is going to submit everything/ also meeting time for weekly meetings 
+* work on the propsol 
 
 What does your team plan to accomplish over the next week?
-* Item 1
-* Item 2
-* Item _n_
+* the team plan to accomplish the next assigments that is due 
+
 
 What, if anything, is preventing your team from making progress?
-* Item 1
-* Item 2
-* Item _n_
+* nothing is preventing the team from making progress 
 
 # Team Work Log
 
 Each team member should list their tasks from the last week, along with time spent on each. This will be useful for improving your ability to plan going forward, since you will be able to look back to see how long tasks actually took.
 
-## Member 1
-
-* Task 1, hours/minutes spent
-* Task 2, hours/minutes spent
-* Task _n_, hours/minutes spent
-
-## Member 2
-
-* Task 1, hours/minutes spent
-* Task 2, hours/minutes spent
-* Task _n_, hours/minutes spent
-
-## Member _n_
-
-* Task 1, hours/minutes spent
-* Task 2, hours/minutes spent
-* Task _n_, hours/minutes spent
+## all the members are starting the task that were assigned to them 
 
 # Team Meeting Attendance
 
 Which team members were present at your weekly meetings? You should have at least one scheduled, with a second scheduled as a backup in case you need one.
 
-* Meeting 1: _list the team members here_
-* Meeting 2: _list the team members here_
+* Meeting 1: chase, alex, finn, sophia, marc
+* Meeting 2: chase, alex, finn,sophia, marc 
 
